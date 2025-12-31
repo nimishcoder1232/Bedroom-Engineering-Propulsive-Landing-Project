@@ -7,7 +7,9 @@ I did this project for a few reasons. The first reason I did it, is because in g
 
 Notes:
 I am 3d printing everything myself, I DONT need reinbursment
-Anything thats NOT in the cad, is provided by me. (THe engines are in the cad, but I am providing those) This BOM only has the stuff, I CANT provide myself. 
+Anything thats NOT in the cad, is provided by me. (THe engines and the big DC motor
+are in the cad, but I am providing those) 
+This BOM only has the stuff, I CANT provide myself. 
 
 Project Link: https://blueprint.hackclub.com/projects/7459
 
