@@ -5,6 +5,10 @@ For this project, I will design a rocket that can launch and then do a propulsiv
 
 I did this project for a few reasons. The first reason I did it, is because in gneral, this is my passion. I love both engineering and rockets, so this is satisfactory for me. This isant a project for me, this project is more, who I am. I also made this project to learn from it. Throughout this project, I have learned sooo much, PCB design, CAD, Programign in many languages, soldering. And SO much more. Every time I sit down to do one of these projects, I end up learning so much. That is the second reason I work on these projects, To learn From them. 
 
+Notes:
+I am 3d printing everything myself, I DONT need reinbursment
+Anything thats NOT in the cad, is provided by me. (THe engines are in the cad, but I am providing those) This BOM only has the stuff, I CANT provide myself. 
+
 Project Link: https://blueprint.hackclub.com/projects/7459
 
 Full Rocket: 
