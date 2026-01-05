@@ -33,6 +33,12 @@ PCB Preview:
 
 <img width="493" height="763" alt="image" src="https://github.com/user-attachments/assets/e846b921-9f72-4703-9e44-543c6d77e6a9" />
 
+Wiring Diagram: 
+
+Any bold line is a electrical wire. I have color coded it. black for ground, red for power, and blue for saignals. if two same color lines touch, thats a connection, if two ddifferent colored lines overlaped, thats NOT a connection. 
+<img width="810" height="842" alt="image" src="https://github.com/user-attachments/assets/82b06881-a73e-485e-94ef-29f80c0bce4b" />
+
+
 |Item Name                                                              |Link                                                                                                                                                                                                                                                              |Quanity|Cost  USD|Notes                                                                             |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|---------|----------------------------------------------------------------------------------|
 |Carbon Fiber Rod 500mm 5 pack                                          |https://www.aliexpress.com/item/3256806607506929.html?spm=a2g0o.cart.0.0.1c3e38dawG7N6Z&mp=1&pdp_npi=6%40dis%21USD%21USD%209.39%21USD%208.29%21%21USD%208.29%21%21%21%402103110517673286269392021e3c62%2112000038324054750%21ct%21US%216511760370%21%212%210%21   |2      |9        |                                                                                  |
