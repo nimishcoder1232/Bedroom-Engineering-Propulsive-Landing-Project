@@ -12,7 +12,7 @@ are in the cad, but I am providing those)
 
 The cad is ONE zip file. Once you unpack it, it has ALL the parts. the file in ALL CAPS called FULL ASEMBLY is the completed asembbly. 
 
-No explosives are in any of the BOMS, no engines, nothing. 
+No explosives are in any of the BOM, no engines, nothing. 
 
 Project Link: https://blueprint.hackclub.com/projects/7459
 
