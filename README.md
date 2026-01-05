@@ -9,6 +9,8 @@ Notes:
 I am 3d printing everything myself, I DONT need reinbursment
 Anything thats NOT in the cad, is provided by me. (THe engines and the big DC motor
 are in the cad, but I am providing those) 
+
+The cad is ONE zip file. Once you unpack it, it has ALL the parts. the file in ALL CAPS< called FULL ASEMBLY is the completed asembbly. 
 This BOM only has the stuff, I CANT provide myself. 
 
 Project Link: https://blueprint.hackclub.com/projects/7459
