@@ -7,8 +7,8 @@ I did this project for a few reasons. The first reason I did it, is because in g
 
 Notes:
 I am 3d printing everything myself, I DONT need reinbursment
-Anything thats NOT in the cad, is provided by me. (THe engines and the big DC motor
-are in the cad, but I am providing those) 
+
+The cad has all the parts. The engine, and the dc motor, and the syringes, are provided by me. 
 
 The cad is ONE zip file. Once you unpack it, it has ALL the parts. the file in ALL CAPS called FULL ASEMBLY is the completed asembbly. 
 
